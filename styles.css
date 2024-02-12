@@ -1,0 +1,32 @@
+body {
+  background-color: lightgrey;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Trebuchet MS", sans-serif;
+  background-color: lightblue;
+  border-radius: 4em;
+  color: grey;
+  letter-spacing: 7.5px;
+}
+
+table {
+  background-color: white;
+  border: solid black;
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+}
+
+tr, th, td {
+  border: solid black;
+}
+
+.top {
+  background-color: lightgreen;
+}
+
+.example {
+  font-family: "Lucida Console", sans-serif;
+}
