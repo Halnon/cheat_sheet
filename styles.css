@@ -9,6 +9,7 @@ h1 {
   border-radius: 4em;
   color: grey;
   letter-spacing: 7.5px;
+  text-shadow: 1px 1px 3px black;
 }
 
 table {
@@ -29,4 +30,10 @@ tr, th, td {
 
 .example {
   font-family: "Lucida Console", sans-serif;
+}
+
+footer {
+  position: relative;
+  top: 550px;
+  font-family: "Trebuchet MS", sans-serif;
 }
